@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.unite.ai/ai-art-generators/", caption="AI-Powered Streamlit App")
+st.image("https://www.sciencedaily.com/releases/2021/10/211025172047.htm", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
